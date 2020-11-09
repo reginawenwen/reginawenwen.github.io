@@ -1,10 +1,10 @@
 # Site settings
 title: BY Blog
-SEOTitle: 郭振明的博客 | BY Blog
+SEOTitle: 稳稳儿的博客 | BY WenWwn
 header-img: img/post-bg-desk.jpg
-email: 17621598511@163.com
+email: 1787742075@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 郭振明的博客, guozhenming, 郭振明, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, 稳稳儿的博客, guozhenming, 稳稳儿, iOS, Apple, iPhone"
 url: "http://allenchen7.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
